@@ -11,7 +11,7 @@ tags:
 
 This example is a simple Scala [Play framework](https://www.playframework.com) app.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/DsDYI2)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/my9q_q)
 
 ## ✨ Features
 
