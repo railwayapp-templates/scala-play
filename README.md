@@ -9,7 +9,7 @@ tags:
 
 # Scala Play Example
 
-This example is a simple Scala [Play framework](https://www.playframework.com)app.
+This example is a simple Scala [Play framework](https://www.playframework.com) app.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/DsDYI2)
 
